@@ -1,0 +1,39 @@
+Visual Studio:
+
+NuGet:
+    Microsoft.EntityFrameworkCore
+    Microsoft.EntityFrameworkCore.SQLServer
+    Microsoft.EntityFrameworkCore.Tools
+
+----------------------------------------------------
+
+SQL Database:
+    Basics:
+        Project details:
+            Resource group: RgCleanOceanic
+
+        Database details:
+            Database name: DbCleanOceanic
+            Server details:
+                Name: server-cleanoceanic
+                Location: (Us) East Us 2
+            
+            Workload environment: Development
+
+            Compute + Storage:
+                Service tier: Basic (For less demanding workloads)
+
+        Authentication:
+            Server admin login: cleanoceanicadmin
+            Password: cleanoceanic@01
+
+
+Visual Studio:
+
+    Subir o banco:
+        update-database
+    Publicar o Container pela plataforma direto,
+
+Execução:
+    docker pull cleanoceanic.azurecr.io/cleanoceanic:latest
+    docker run -d -p 8080:8080 cleanoceanic.azurecr.io/cleanoceanic:latest
