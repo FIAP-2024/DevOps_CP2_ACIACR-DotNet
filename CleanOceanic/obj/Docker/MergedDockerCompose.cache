@@ -1,0 +1,36 @@
+name: dockercompose15503610440334706545
+services:
+  cleanoceanic:
+    build:
+      context: C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic
+      dockerfile: CleanOceanic/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: cleanoceanic
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\MarceloAmp\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\MarceloAmp\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose15503610440334706545_default

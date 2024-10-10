@@ -204,3 +204,4 @@ C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2
 C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\CleanOceanic\obj\Debug\net8.0\CleanOceanic.pdb
 C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\CleanOceanic\obj\Debug\net8.0\CleanOceanic.genruntimeconfig.cache
 C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\CleanOceanic\obj\Debug\net8.0\ref\CleanOceanic.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\CleanOceanic\obj\Debug\net8.0\CleanOceanic.sourcelink.json

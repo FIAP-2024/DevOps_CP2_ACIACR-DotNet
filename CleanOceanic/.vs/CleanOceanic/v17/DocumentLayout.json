@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|c:\\users\\marceloamp\\documents\\fiap\\2 ano\\2_semestre\\checkpoints\\devops tools\\cp2\\cleanoceanic\\cleanoceanic\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|solutionrelative:cleanoceanic\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|c:\\users\\marceloamp\\documents\\fiap\\2 ano\\2_semestre\\checkpoints\\devops tools\\cp2\\cleanoceanic\\cleanoceanic\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|solutionrelative:cleanoceanic\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|c:\\users\\marceloamp\\documents\\fiap\\2 ano\\2_semestre\\checkpoints\\devops tools\\cp2\\cleanoceanic\\cleanoceanic\\controllers\\volunteercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|solutionrelative:cleanoceanic\\controllers\\volunteercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|c:\\users\\marceloamp\\documents\\fiap\\2 ano\\2_semestre\\checkpoints\\devops tools\\cp2\\cleanoceanic\\cleanoceanic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF89AF77-7635-43AA-BD10-808762908E21}|CleanOceanic\\CleanOceanic.csproj|solutionrelative:cleanoceanic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637A4167-7E4F-4A42-9A9D-7F552B18BF68}|docker-compose.dcproj|c:\\users\\marceloamp\\documents\\fiap\\2 ano\\2_semestre\\checkpoints\\devops tools\\cp2\\cleanoceanic\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{637A4167-7E4F-4A42-9A9D-7F552B18BF68}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 426,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "CleanOceanic\\Models\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Models\\Volunteer.cs",
+              "RelativeToolTip": "CleanOceanic\\Models\\Volunteer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:14:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Dockerfile",
+              "RelativeDocumentMoniker": "CleanOceanic\\Dockerfile",
+              "ToolTip": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Dockerfile",
+              "RelativeToolTip": "CleanOceanic\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T18:08:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T18:07:45.253Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -31,32 +74,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VolunteerController.cs",
-              "DocumentMoniker": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Controllers\\VolunteerController.cs",
-              "RelativeDocumentMoniker": "CleanOceanic\\Controllers\\VolunteerController.cs",
-              "ToolTip": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Controllers\\VolunteerController.cs",
-              "RelativeToolTip": "CleanOceanic\\Controllers\\VolunteerController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T02:58:53.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Controllers\\CompanyController.cs",
-              "RelativeDocumentMoniker": "CleanOceanic\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\Users\\MarceloAmp\\Documents\\FIAP\\2 Ano\\2_Semestre\\Checkpoints\\DevOps Tools\\CP2\\CleanOceanic\\CleanOceanic\\Controllers\\CompanyController.cs",
-              "RelativeToolTip": "CleanOceanic\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwJUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T02:51:03.19Z",
-              "EditorCaption": ""
             }
           ]
         }

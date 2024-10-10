@@ -1,0 +1,17 @@
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.deps.json
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.runtimeconfig.json
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\appsettings.Development.json
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\appsettings.json
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.staticwebassets.runtime.json
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.exe
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\bin\Debug\CleanOceanic.pdb
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\MarceloAmp\Documents\FIAP\2 Ano\2_Semestre\Checkpoints\DevOps Tools\CP2\CleanOceanic\obj\Debug\docker-c.35A3FFBA.Up2Date

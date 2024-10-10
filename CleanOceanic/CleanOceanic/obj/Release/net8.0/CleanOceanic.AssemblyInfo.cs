@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanOceanic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af47972b8553534c4522c6dbf8d929ae428a73f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanOceanic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanOceanic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

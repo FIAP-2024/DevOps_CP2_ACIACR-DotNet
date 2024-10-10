@@ -1,0 +1,6 @@
+services:
+  cleanoceanic:
+    image: ${DOCKER_REGISTRY-}cleanoceanic
+    build:
+      context: .
+      dockerfile: CleanOceanic/Dockerfile

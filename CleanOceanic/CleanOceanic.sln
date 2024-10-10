@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanOceanic", "CleanOceanic\CleanOceanic.csproj", "{DF89AF77-7635-43AA-BD10-808762908E21}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{637A4167-7E4F-4A42-9A9D-7F552B18BF68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DF89AF77-7635-43AA-BD10-808762908E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF89AF77-7635-43AA-BD10-808762908E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF89AF77-7635-43AA-BD10-808762908E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637A4167-7E4F-4A42-9A9D-7F552B18BF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637A4167-7E4F-4A42-9A9D-7F552B18BF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637A4167-7E4F-4A42-9A9D-7F552B18BF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637A4167-7E4F-4A42-9A9D-7F552B18BF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
